@@ -1,3 +1,4 @@
+![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username)     
 # Welcome to my GitHub profile :hugs:
 ![](star-wars-hello.gif)   
 I am a first-grade software engineering student :computer:    
@@ -8,5 +9,6 @@ I am trying to improve my skills on C++ and DSA you can check my repositories th
    
 Also I am a genuine fan of space and star wars :milky_way:    
      
-I believe youwill find many things in here I will keep going to add a lot of repositoires and I am gonna share some of my projects in here     
+I believe you will find many things in here I will keep going to add a lot of repositoires and I am gonna share some of my projects in here  
+
 ![](obi-wan-obi-wan-kenobi.gif)
