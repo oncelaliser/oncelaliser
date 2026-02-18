@@ -11,7 +11,7 @@
      
 ## I believe you will find many things in here I will keep going to add some repositoires and I am gonna share some of my projects in here  
 
-# Languages, tools and technologies that I use    
+# Languages, tools and technologies that I have experience with     
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,github,replit,sqlite,visualstudio)](https://skillicons.dev)   
 
 # Languages, tools and technologies that I am learning currently    
