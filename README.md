@@ -10,3 +10,9 @@
 ## I like learning and building things and you can find many beautiful things here, I believe you will love them        
      
 ## I believe you will find many things in here I will keep going to add some repositoires and I am gonna share some of my projects in here  
+
+# Languages, tools and technologies that I use    
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,replit,sqlite,visualstudio)](https://skillicons.dev)   
+
+# Languages, tools and technologies that I am learning currently    
+[![My Skills](https://skillicons.dev/icons?i=aws,py,sklearn)](https://skillicons.dev)
