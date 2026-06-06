@@ -1,7 +1,7 @@
 ![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username)     
-# Welcome to my GitHub profile :rocket: :milky_way:     
+# Welcome to my GitHub profile :rocket:      
 ![](star-wars-hello.gif)    
-## I am a first-grade software engineering student :computer:    
+## I am a first-grade software engineering student    
    
 ## I am currently learning ML, I am interested on AI technologies  
    
