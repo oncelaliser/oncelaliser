@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,github,replit,sqlite,visualstudio)](https://skillicons.dev)   
 
 # Languages, tools and technologies that I am learning currently    
-[![My Skills](https://skillicons.dev/icons?i=aws,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,py)](https://skillicons.dev)  
