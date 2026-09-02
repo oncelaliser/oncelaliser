@@ -1,4 +1,3 @@
-![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username)     
 # Welcome to my GitHub profile :rocket:      
 ![](star-wars-hello.gif)    
 ## I am a first-grade software engineering student    
