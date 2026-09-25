@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile :rocket:      
+# Welcome to my GitHub profile  
 ![](star-wars-hello.gif)    
 ### Second grade software engineering student    
 ### Interested in AI/ML, Cloud, Space and more...
