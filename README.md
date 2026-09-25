@@ -1,17 +1,7 @@
 # Welcome to my GitHub profile :rocket:      
 ![](star-wars-hello.gif)    
-## I am a first-grade software engineering student    
-   
-## I am currently learning ML, I am interested on AI technologies  
-   
-## I am trying to improve my skills,    you can check my repositories that I made.     
+Second grade software engineering student    
+Interested in AI/ML, Cloud and some different tools
 
-## I like learning and building things and you can find many beautiful things here, I believe you will love them        
-     
-## I believe you will find many things in here I will keep going to add some repositoires and I am gonna share some of my projects in here  
-
-# Languages, tools and technologies that I have experience with     
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,replit,sqlite,visualstudio)](https://skillicons.dev)   
-
-# Languages, tools and technologies that I am learning currently    
-[![My Skills](https://skillicons.dev/icons?i=aws,py)](https://skillicons.dev)  
+# Languages, tools and technologies     
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,visualstudio,anaconda&theme=light)](https://skillicons.dev)    
